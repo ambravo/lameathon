@@ -66,6 +66,6 @@ Abusing of the Auth0 CLI, it is possible to generate crafted access tokens inclu
 ### 6. FGA Preview
 FGA is here... deploy FGA in your own tenant!*
 
-https://fga-preview.us.auth0.com
+https://fga-preview.us.auth0.com/login
 
 <sup><sub>*But remember that sometimes things are not what they seem.</sub></sup>
