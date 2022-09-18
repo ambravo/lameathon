@@ -53,6 +53,10 @@ Demonstrate URL Redirections and progresive profiling dynamically. The action th
 The information is delivered encrypted in AES, uses ECDH to generate a common key. In this way, both, Auth0 and the backend will only exchange public keys. No shared secrets are required.
 Progressiver will use the same branding that you had configured with the lo-code approach.
 
+Try the progressiver here: https://progressiver.a0.gg/
+Username: hackathon@a0.gg
+Password: guarana_antartica@2022
+
 ### 4. Action's Engine Explorer
 Have you ever wondered what runs under in the container that is spawn during an action? Explore it yourself in this link:
 
