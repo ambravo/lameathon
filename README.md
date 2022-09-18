@@ -54,7 +54,10 @@ The information is delivered encrypted in AES, uses ECDH to generate a common ke
 Progressiver will use the same branding that you had configured with the lo-code approach.
 
 Try the progressiver here: https://progressiver.a0.gg/
+
+
 Username: hackathon@a0.gg
+
 Password: guarana_antartica@2022
 
 ### 4. Action's Engine Explorer
